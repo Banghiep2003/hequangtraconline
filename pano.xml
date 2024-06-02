@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.11" apprev="18043" id="node1">
+  <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelingroll="0" width="2992" height="2992" levelbiashidpi="1.000" overlap="1">
+    <level preload="0" predecode="0" width="2992" height="2992"/>
+    <level preload="0" predecode="0" width="1496" height="1496"/>
+    <level preload="0" predecode="0" width="748" height="748"/>
+    <level preload="1" predecode="1" width="374" height="374"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start pan="0" fov="100" tilt="0" projection="4"/>
+    <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
+  </view>
+  <userdata info="" source="" nodeid="node1" copyright="" comment="" longitude="105.767972" altitude="6.40" customnodeid="" author="" heading="0" latitude="10.046861" description="" tags="Downloads" datetime="26/02/2024 8:32 SA" title="TEST.JPG00000"/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label background="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" borderalpha="1" borderradius="1" border="1" wordwrap="1" width="180" height="20" backgroundalpha="1" enabled="1"/>
+    <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+    <hotspot pan="-349.64" url="https://blynk.io" target="_blank" description="" tilt="-31.53" skinid="ht_url" title="Web_Viewer" id="Point01"/>
+  </hotspots>
+  <media/>
+  <transition zoomoutpause="1" blendtime="1" zoomin="0" zoomfov="20" zoomafterinfov="90" softedge="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" zoomout="0"/>
+  <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+  <control sensitivity="8" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertcontrol="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" simulatemass="1" lockedkeyboard="0" invertwheel="0" rubberband="0"/>
+</panorama>
